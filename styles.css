@@ -194,6 +194,8 @@ hr{
 }
 
 .schedule-table{
+  cell : 5 10 5 10;
+  cellspacing="0"
   margin:0 auto 40px auto;
   font-size: 1.5em;
 }
